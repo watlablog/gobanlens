@@ -1,0 +1,16 @@
+# macOS
+.DS_Store
+
+# Local Firebase state
+.firebase/
+
+# Local sample assets/labels (do not commit)
+sample/
+
+# Environment files (keep .env.example)
+.env
+.env.*
+!.env.example
+**/.env
+**/.env.*
+!**/.env.example
